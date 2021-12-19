@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XqExzjfDtizamQ+3ogBLZnSC+Ags55kHe9lOaCwkqwsCIEx+uZkC51AhwTQeMRTiYKOBz3r78bJmTGjMgrhuZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\email\\Documents\\Visual Studio 2022\\Projects\\NewBlueSapphire\\NewBlueSapphire\\NewBlueSapphire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}
